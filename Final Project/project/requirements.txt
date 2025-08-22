@@ -1,0 +1,4 @@
+
+pip-installable libraries which are required to run the project:
+pygame
+pytest
