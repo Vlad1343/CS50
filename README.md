@@ -1,5 +1,4 @@
-
-# Harvard Final Project
+# CS50 Programming with Python - Harvard Final Project
 
 ## Video Demo:  <https://youtu.be/1ukciRQbWXA>
 
@@ -34,7 +33,7 @@ The player navigates a spaceship along the bottom of the screen, firing bullets 
 - `bullet.py`: Implements the `Bullet` class, handling bullet creation, movement, and collision detection.  
 - `alien.py`: Defines the `Alien` class and manages alien fleet creation, movement, and collision behavior.  
 - `game_stats.py`: Tracks game statistics including score, level, and number of ships remaining.  
-- `scoreboard.py`: Displays the player’s score, high score, and current level on the screen.  
+- `scoreboard.py`: Displays the player's score, high score, and current level on the screen.  
 - `button.py`: Implements start and restart buttons for easy game control.  
 - `main.py` (optional if used): Coordinates game setup, events, and updates across modules.
 - `test_project.py`: A few functions to ensure that everything is working smoothly
