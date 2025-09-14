@@ -1,8 +1,6 @@
 # CS50 Programming with Python - Harvard Final Project
 
-## Video Demo:  <https://youtu.be/1ukciRQbWXA>
-
-### Description
+## Description
 
 This project, **Alien Invasion**, is a Python-based interactive arcade-style game inspired by classic space shooter games, created after studying *Python Crash Course* by Eric Matthes. Developed as the final submission for the Harvard course, the game challenges players to defend their spaceship from waves of alien invaders while achieving the highest score possible. The game emphasizes fast-paced action, strategic shooting, and careful navigation to avoid collisions.
 
